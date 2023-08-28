@@ -4,5 +4,7 @@
 }
 
 body {
+    text-align: center;
     background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
