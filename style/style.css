@@ -16,3 +16,7 @@ h1 {
 p {
     padding-top: 10px;
 }
+
+.header {
+    width: 100%;
+}
